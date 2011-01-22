@@ -1,7 +1,12 @@
-# List of URLs blocked by the Chinese Great Firewall
+# List of URLs blocked by the Great Firewall of China (Golden Shield Project)
 
-This is an attempt to get a list of domains and/or URLs blocked by the Chinese firewall.
+This is an attempt to get a list of domains, IPs and/or URLs blocked by the Chinese firewall.
 
-Maintained by Yeri Tiete (aka Tuinslak) <http://yeri.be>
+Hosts that are subject to temporary blockage (such as certain news sites) will be included in this list.
 
-Submit URLs or domains to <yeri@tiete.be>
+Submit URLs, IPs or domains to <yeri@tiete.be>
+
+--
+
+Maintained by Yeri Tiete (aka Tuinslak) 
+Blog: <http://yeri.be>
