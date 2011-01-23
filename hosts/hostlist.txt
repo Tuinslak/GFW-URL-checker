@@ -1,7 +1,4 @@
 0x04.com
-<<<<<<< HEAD:hosts/hostlist.txt
-=======
->>>>>>> dcdd7d16224ed90d47bcb27c6b4afbb55320ad4e:hosts/hostlist.txt
 bit.ly
 blog.irail.be
 blog.tuinslak.org
