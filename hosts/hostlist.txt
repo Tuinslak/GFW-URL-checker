@@ -30,8 +30,8 @@ www.tumblr.com
 www.twitpic.com
 www.twitter.com
 www.veoh.com
-www.vimeo.com
 www.vimeocdn.com
+www.vimeo.com
 www.whatreallyhappened.com
 www.whitehouse.org
 www.wikileaks.ch
