@@ -18,5 +18,5 @@
 
 # test
 while read a; do {
-	[[ `wget $a --user-agent="GFW checker (http://yeri.be/hr)" -O /dev/null 2>&1 | grep "200 OK"` == "" ]] && echo $a,nok,`date +%d-%m-%Y,%H:%M:%S` >> $2_nok.csv || echo $a,ok,`date +%d-%m-%Y,%H:%M:%S` >> $2_ok.csv
+	[[ `wget $a --user-agent="GFW checker (http://yeri.be/hr)" -O /dev/null 2>&1 | grep "200 OK"` == "" ]] && echo $a,nok,`date -u +%d-%m-%Y,%H:%M:%S` >> $2_nok.csv || echo $a,ok,`date -u +%d-%m-%Y,%H:%M:%S` >> $2_ok.csv
 } done < $1
