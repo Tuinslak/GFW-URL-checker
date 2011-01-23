@@ -1,20 +1,10 @@
 0x04.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> a7e99f57cdf581fa4caf8cddb88095bc2f30f3b9
->>>>>>> a7e99f57cdf581fa4caf8cddb88095bc2f30f3b9
-blog.tuinslak.org
 blog.tuinslak.org
 en.wikipedia.org
 mail.google.com
 static.0x04.com
 this-is-a-test.xyz
-this-is-a-test.xyz
 wikileaks.0x04.com
-wikileaks.0x04.com
-www.blogger.com
 www.blogger.com
 www.china.org.cn
 www.democracy.com
@@ -30,7 +20,6 @@ www.hattrick.org
 www.hi5.com
 www.joindiaspora.com
 www.lemonde.fr
-www.minghui.org
 www.minghui.org
 www.nasa.gov
 www.playboy.com
@@ -53,5 +42,4 @@ www.yahoo.co.jp
 www.youporn.com
 www.youtu.be
 www.youtube.com
-yeri.be
 yeri.be
