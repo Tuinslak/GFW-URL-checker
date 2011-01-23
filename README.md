@@ -11,7 +11,10 @@ Mind that it only check HTTP header responses, and doesn't actually check the co
 
 Submit URLs, IPs or domains to <gfw@tuinslak.be>
 
+I'm looking for additional Unix/Linux hosts all around the world (but preferably countries that apply censorship). All I need is wget, git and cron installed (10ish mb quota). Contact me on the e-mail above. 
+
 --
 
 Maintained by Yeri Tiete (aka Tuinslak) 
+
 Blog: <http://yeri.be>
