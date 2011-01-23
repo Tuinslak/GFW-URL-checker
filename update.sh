@@ -26,6 +26,6 @@ mv /tmp/results.csv testResults/$COUNTRY/results.csv
 
 # commit
 git add .
-git commit -m "BE check @ $DATE"
+git commit -m "$COUNTRY check @ $DATE"
 git push
 
