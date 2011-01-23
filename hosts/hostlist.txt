@@ -1,13 +1,16 @@
+=======
 0x04.com
 bit.ly
 blog.irail.be
 blog.tuinslak.org
 blog.twitter.com
 code.google.com
+>>>>>>> dcdd7d16224ed90d47bcb27c6b4afbb55320ad4e:hosts/hostlist.txt
 de.wikipedia.org
 en.wikipedia.org
 four.rootspirit.com
 fr.wikipedia.org
+<<<<<<< HEAD:hosts/hostlist.txt
 mail.google.com
 nl.wikipedia.org
 one.rootspirit.com
@@ -37,6 +40,7 @@ www.delicious.com
 www.democracy.com
 www.digg.com
 www.dirty.ru
+www.dyndns.com
 www.ebay.com
 www.een.be
 www.facebook.com
@@ -112,7 +116,3 @@ www.youporn.com
 www.youtu.be
 www.youtube.com
 zero.rootspirit.com
-<<<<<<< HEAD:hosts/hostlist.txt
-=======
-www.dyndns.com
->>>>>>> dcdd7d16224ed90d47bcb27c6b4afbb55320ad4e:hosts/hostlist.txt
