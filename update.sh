@@ -2,7 +2,7 @@
 # Yeri Tiete
 
 source country.txt
-DATE=`date`
+DATE=`date -u +%d-%m-%Y %H:%M:%S`
 
 # pull git
 git pull
@@ -26,6 +26,6 @@ mv /tmp/results.csv testResults/$COUNTRY/results.csv
 
 # commit
 git add .
-git commit -m "$COUNTRY check @ $DATE"
+git commit -m "$COUNTRY check @ $DATE (UTC)"
 git push
 
