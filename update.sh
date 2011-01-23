@@ -1,7 +1,7 @@
 #!/bin/bash
 # Yeri Tiete
 
-source country.txt
+source country.sh
 DATE=`date -u '+%H:%M:%S %d-%m-%Y'`
 
 # pull git
