@@ -15,8 +15,6 @@ cat testResults/$COUNTRY/results_nok.csv > testResults/$COUNTRY/results.csv
 cat testResults/$COUNTRY/results_ok.csv >> testResults/$COUNTRY/results.csv
 
 # sort
-sort -f hosts/hostlist.txt > /tmp/hostlist.txt
-mv /tmp/hostlist.txt hosts/hostlist.txt
 sort -f testResults/$COUNTRY/results_nok.csv > /tmp/results_nok.csv
 mv /tmp/results_nok.csv testResults/$COUNTRY/results_nok.csv
 sort -f testResults/$COUNTRY/results_ok.csv > /tmp/results_ok.csv
