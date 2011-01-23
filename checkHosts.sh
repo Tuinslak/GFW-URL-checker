@@ -18,5 +18,5 @@
 
 # test
 while read a; do {
-	[[ `wget $a --user-agent="GFW-URL-checker (http://yeri.be/hr)" -O /dev/null 2>&1 | grep "200 OK"` == "" ]] && echo $a,nok,`date -u +%d-%m-%Y,%H:%M:%S` >> $2_nok.csv || echo $a,ok,`date -u +%d-%m-%Y,%H:%M:%S` >> $2_ok.csv
+	[[ `wget $a --user-agent="GFW-URL-checker (http://yeri.be/hr)" --no-check-certificate -O /dev/null 2>&1 | grep "200 OK"` == "" ]] && echo $a,nok,`date -u +%d-%m-%Y,%H:%M:%S` >> $2_nok.csv || echo $a,ok,`date -u +%d-%m-%Y,%H:%M:%S` >> $2_ok.csv
 } done < $1
