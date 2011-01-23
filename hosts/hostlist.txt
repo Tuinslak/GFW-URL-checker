@@ -1,16 +1,16 @@
-=======
 0x04.com
+<<<<<<< HEAD:hosts/hostlist.txt
+=======
+>>>>>>> dcdd7d16224ed90d47bcb27c6b4afbb55320ad4e:hosts/hostlist.txt
 bit.ly
 blog.irail.be
 blog.tuinslak.org
 blog.twitter.com
 code.google.com
->>>>>>> dcdd7d16224ed90d47bcb27c6b4afbb55320ad4e:hosts/hostlist.txt
 de.wikipedia.org
 en.wikipedia.org
 four.rootspirit.com
 fr.wikipedia.org
-<<<<<<< HEAD:hosts/hostlist.txt
 mail.google.com
 nl.wikipedia.org
 one.rootspirit.com
@@ -99,8 +99,8 @@ www.twitter.com
 www.ubuntu.com
 www.un.org
 www.veoh.com
-www.vimeocdn.com
 www.vimeo.com
+www.vimeocdn.com
 www.whatreallyhappened.com
 www.whitehouse.org
 www.wikileaks.ch
@@ -108,8 +108,8 @@ www.wikipedia.com
 www.wikipedia.org
 www.wow-europe.com
 www.xxxporn.cn
-www.yahoo.co.jp
 www.ya.ru
+www.yahoo.co.jp
 www.yeri.be
 www.yeritiete.be
 www.youporn.com

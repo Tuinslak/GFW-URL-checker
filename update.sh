@@ -2,7 +2,7 @@
 # Yeri Tiete
 
 source country.txt
-DATE=`date -u +%d-%m-%Y %H:%M:%S`
+DATE=`date -u '+%H:%M:%S %d-%m-%Y'`
 
 # pull git
 git pull
