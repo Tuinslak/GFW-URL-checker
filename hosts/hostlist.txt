@@ -96,8 +96,8 @@ www.twitter.com
 www.ubuntu.com
 www.un.org
 www.veoh.com
-www.vimeocdn.com
 www.vimeo.com
+www.vimeocdn.com
 www.whatreallyhappened.com
 www.whitehouse.org
 www.wikileaks.ch
@@ -105,8 +105,8 @@ www.wikipedia.com
 www.wikipedia.org
 www.wow-europe.com
 www.xxxporn.cn
-www.yahoo.co.jp
 www.ya.ru
+www.yahoo.co.jp
 www.yeri.be
 www.yeritiete.be
 www.youporn.com
