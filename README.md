@@ -1,10 +1,15 @@
 # List of URLs blocked by the Great Firewall of China (Golden Shield Project)
 
-This is an attempt to get a list of domains, IPs and/or URLs blocked by the Chinese firewall.
+… or at least, an attempt to create a list.
 
-Hosts that are subject to temporary blockage (such as certain news sites) will be included in this list.
+Checks once a day if the hosts (URLs) in the hosts directory are accessible and commits the output in two files (testResults/).
 
-Submit URLs, IPs or domains to <yeri@tiete.be>
+	results_ok.csv => list of hosts accessible (header 200 OK reply)
+	results_nok.csv => list of hosts unaccessible (no reply)
+
+Mind that it only check HTTP header responses, and doesn't actually check the content of the returned page (e.g. altered page content)	
+
+Submit URLs, IPs or domains to <gfw@tuinslak.be>
 
 --
 
