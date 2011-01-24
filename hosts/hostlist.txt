@@ -1,4 +1,5 @@
 0x04.com
+adium.im
 bit.ly
 blog.irail.be
 blog.tuinslak.org
@@ -19,8 +20,10 @@ svn.miiatech.com
 tw.yahoo.com
 vm1.rootspirit.com
 vpn.miiatech.com
+wiki.answers.com
 wikileaks.0x04.com
 www.amnesty.org
+www.answers.com
 www.aol.com
 www.apple.com
 www.bangbros.com
@@ -82,6 +85,7 @@ www.myspace.com
 www.nasa.gov
 www.nickdemey.be
 www.nintendo.com
+www.pichunter.com
 www.playboy.com
 www.pussy.org
 www.quora.com
@@ -89,6 +93,7 @@ www.rootspirit.com
 www.rootspirit.info
 www.skype.com
 www.slashdot.org
+www.slideshare.com
 www.sourceforge.net
 www.standaard.be
 www.stern.de
@@ -96,7 +101,10 @@ www.t.co
 www.techcrunch.com
 www.theonion.com
 www.thepiratebay.org
+www.tibet.com
+www.tibet.org
 www.tiete.be
+www.tiete.eu
 www.tiete.org
 www.tocka.com.mk
 www.tuaw.com
