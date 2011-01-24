@@ -1,3 +1,3 @@
 #!/bin/bash
-sort -f hosts/hostlist.txt > /tmp/hostlist.txt
-mv /tmp/hostlist.txt hosts/hostlist.txt
+sort -f hosts/hostlist.txt > hosts/_hostlist.txt
+mv hosts/_hostlist.txt hosts/hostlist.txt
