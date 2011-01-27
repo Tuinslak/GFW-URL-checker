@@ -5,7 +5,8 @@
 # simple bash (c)
 # Thanks to Pieter Colpaert for the help
 #
-# Checks on 200 (found), and writes files
+# Checks on 200 (found), and writes results to files
+# Github page: https://github.com/Tuinslak/GFW-URL-checker
 
 #
 # Usage:
