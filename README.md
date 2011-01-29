@@ -6,7 +6,7 @@ Checks once a day if the hosts (URLs) in the hosts directory are accessible and 
 
 	results_ok.csv	=>	list of hosts accessible (header 200 OK reply)
 	results_nok.csv	=>	list of hosts unaccessible (no reply)
-	results.csv	=>	list of all hosts
+	results.csv		=>	list of all hosts
 
 Mind that it only check HTTP header responses, and doesn't actually check the content of the returned page (e.g. altered page content)	
 
