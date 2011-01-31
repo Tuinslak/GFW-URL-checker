@@ -23,6 +23,7 @@ safebrowsing-cache.google.com
 search.twitter.com
 sites.google.com
 static.0x04.com
+store.apple.com
 svn.miiatech.com
 tw.yahoo.com
 vm1.rootspirit.com
@@ -51,6 +52,7 @@ www.darkstormguild.com
 www.debian.org
 www.delicious.com
 www.democracy.com
+www.designerterminal.com
 www.deviantart.com
 www.digg.com
 www.dirty.ru
@@ -67,6 +69,7 @@ www.freetibet.org
 www.geenstijl.nl
 www.gentoo.org
 www.github.com
+www.gizmodo.jp
 www.gmx.de
 www.gnupg.org
 www.google.be
@@ -108,6 +111,7 @@ www.microsoft.com
 www.miiatech.com
 www.minghui.org
 www.mixx.com
+www.modernizr.com
 www.msn.com
 www.myspace.com
 www.nasa.gov
@@ -117,6 +121,7 @@ www.pichunter.com
 www.playboy.com
 www.progit.org
 www.pussy.org
+www.qq.com
 www.quora.com
 www.rackerhacker.com
 www.rootspirit.com
@@ -159,6 +164,7 @@ www.veoh.com
 www.vimeo.com
 www.vimeocdn.com
 www.vlc.org
+www.weble.org
 www.whatreallyhappened.com
 www.whitehouse.gov
 www.wikileaks.ch
@@ -173,4 +179,5 @@ www.yeritiete.be
 www.youporn.com
 www.youtu.be
 www.youtube.com
+yeri.tiete.be
 zero.rootspirit.com
