@@ -24,7 +24,7 @@ source country.sh
 
 # test
 while read a; do {
-	[[ `wget $a --user-agent="GFW-URL-checker (http://yeri.be/hr); country: $COUNTRY" --no-check-certificate -O /dev/null 2>&1 | grep "200 OK"` == "" ]] && echo $a,`date -u +%d-%m-%Y,%H:%M:%S`,nok >> $2_nok.csv || echo $a,`date -u +%d-%m-%Y,%H:%M:%S`,ok >> $2_ok.csv
+	[[ `wget $a --tries=3 --user-agent="GFW-URL-checker (http://yeri.be/hr); country: $COUNTRY" --no-check-certificate -O /dev/null 2>&1 | grep "200 OK"` == "" ]] && echo $a,`date -u +%d-%m-%Y,%H:%M:%S`,nok >> $2_nok.csv || echo $a,`date -u +%d-%m-%Y,%H:%M:%S`,ok >> $2_ok.csv
 } done < $1
 
 #
