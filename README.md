@@ -24,6 +24,14 @@ I'm looking for additional Unix/Linux shells all around the world (but preferabl
 
 Only checks HTTP. HTTPS might be useful. 
 
+# Why ?
+
+I got annoyed not being able to share certain sites with people residing in China. 
+
+I then decided to find simple ways to by-pass the GFW using OpenVPN + Squid proxy and a PAC file redirecting only blocked URLs through the proxy. But I didn't have a complete list of blocked URLs and wasn't able to find one on the net, so I tried to populate my own.
+
+Knowledge is power.
+
 --
 
 Maintained by Yeri Tiete (aka Tuinslak) 
