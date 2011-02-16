@@ -45,7 +45,6 @@ solaris.unix.com
 static.0x04.com
 store.apple.com
 sunsite.ualberta.ca
-svn.miiatech.com
 tech.karbassi.com
 tipstricks.itmatrix.eu
 tw.yahoo.com
