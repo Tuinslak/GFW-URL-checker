@@ -20,10 +20,6 @@ Submit URLs, IPs or domains to <gfw@tuinslak.be>. I'll probably create some smal
 
 I'm looking for additional Unix/Linux shells all around the world (but preferably countries that apply censorship). All I need is wget, git and cron installed, 10ish mb quota, and a bit of your CPU time and networking. Contact me on the e-mail above. These can be ARM shells (such as Guruplug/Sheevaplug).
 
-# Todo
-
-Only checks HTTP. HTTPS might be useful. 
-
 # Why ?
 
 I got annoyed not being able to share certain sites with people residing in China. 
