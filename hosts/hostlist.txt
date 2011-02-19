@@ -66,6 +66,7 @@ www.bbc.co.uk
 www.bing.com
 www.blogger.com
 www.blogspot.com
+www.boardofinnovation.com
 www.brightkite.com
 www.businessmodelinnovatie.be
 www.canvas.be
@@ -146,6 +147,7 @@ www.linux.com
 www.linuxquestions.org
 www.live.com
 www.livejournal.com
+www.loadays.org
 www.logmein.com
 www.lxde.org
 www.mail-archive.com
@@ -188,6 +190,7 @@ www.slideshare.com
 www.sourceforge.net
 www.sphere.ws
 www.standaard.be
+www.startssl.com
 www.stern.de
 www.stubru.be
 www.stumbleupon.com
