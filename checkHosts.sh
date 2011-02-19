@@ -17,6 +17,7 @@
 
 # get country variable
 source country.sh
+i=0
 
 # clean up
 [ -e $2_nok.csv ] && rm $2_nok.csv
@@ -24,7 +25,9 @@ source country.sh
 
 # test
 while read a; do {
-	[[ `wget $a --tries=3 --timeout=30 --user-agent="GFW-URL-checker (http://yeri.be/hr); country: $COUNTRY" --no-check-certificate -O /dev/null 2>&1 | grep "200 OK"` == "" ]] && echo $a,`date -u +%d-%m-%Y,%H:%M:%S`,nok >> $2_nok.csv || echo $a,`date -u +%d-%m-%Y,%H:%M:%S`,ok >> $2_ok.csv
+	let i++
+	echo "	> ($i) $a at `date -u +%H:%M:%S`."
+	[[ `wget $a --tries=1 --timeout=30 --user-agent="GFW-URL-checker (http://yeri.be/hr); country: $COUNTRY" --no-check-certificate -O /dev/null 2>&1 | grep "200 OK"` == "" ]] && echo $a,`date -u +%d-%m-%Y,%H:%M:%S`,nok >> $2_nok.csv || echo $a,`date -u +%d-%m-%Y,%H:%M:%S`,ok >> $2_ok.csv
 } done < $1
 
 #
