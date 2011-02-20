@@ -1,3 +1,13 @@
+hotfile.com
+hotfileserve.com
+kickasstorrents.com
+limetorrents.com
+extratorrent.com
+greedytorrent.com
+hd-torrents.org
+bittorrentfiles.org
+alivetorrents.com
+www.wsj.com
 0x04.com
 adium.im
 api.irail.be
@@ -243,7 +253,6 @@ www.wikipedia.com
 www.wikipedia.org
 www.wow-europe.com
 www.writetoreply.org
-www.xxxporn.cn
 www.ya.ru
 www.yahoo.co.jp
 www.yeri.be
