@@ -1,13 +1,14 @@
 0x04.com
 adium.im
+alivetorrents.com
 api.irail.be
 bit.ly
+bittorrentfiles.org
 blog.irail.be
 blog.tuinslak.org
 blog.twitter.com
 blog.zztopping.com
 bmiwiki.cchmc.org
-boldlentil.wordpress.com
 code.google.com
 crunchbanglinux.org
 de.wikipedia.org
@@ -15,10 +16,17 @@ debian-multimedia.org
 debian.speedblue.org
 en.wikipedia.org
 english.aljazeera.net
+extratorrent.com
 fedora.unix.com
 four.rootspirit.com
 fr.wikipedia.org
+greedytorrent.com
+hd-torrents.org
+hotfile.com
+hotfileserve.com
 idlebox.net
+kickasstorrents.com
+limetorrents.com
 linux.unix.com
 listen.grooveshark.com
 lists.rootspirit.com
@@ -35,6 +43,7 @@ progit.org
 project.irail.be
 prowl.weks.net
 refactormycode.com
+reuters.com
 rosettacode.org
 safebrowsing-cache.google.com
 search.twitter.com
@@ -49,6 +58,7 @@ tech.karbassi.com
 tipstricks.itmatrix.eu
 tw.yahoo.com
 ubuntu.unix.com
+uk.reuters.com
 vm1.rootspirit.com
 vpn.miiatech.com
 wiki.answers.com
@@ -92,7 +102,6 @@ www.ebay.com
 www.een.be
 www.engadget.com
 www.facebook.com
-www.fbcdn.net
 www.fbi.gov
 www.fedoraproject.org
 www.flickr.com
@@ -169,6 +178,7 @@ www.nieuwsblad.be
 www.nintendo.com
 www.paypal.be
 www.paypal.com
+www.peacehall.com
 www.photobucket.com
 www.pichunter.com
 www.playboy.com
@@ -232,7 +242,6 @@ www.vandaag.be
 www.veoh.com
 www.videopress.com
 www.vimeo.com
-www.vimeocdn.com
 www.vlc.org
 www.walkernews.net
 www.weble.org
@@ -241,9 +250,11 @@ www.whitehouse.gov
 www.wikileaks.ch
 www.wikipedia.com
 www.wikipedia.org
+www.wordpress.com
+www.wordpress.org
 www.wow-europe.com
 www.writetoreply.org
-www.xxxporn.cn
+www.wsj.com
 www.ya.ru
 www.yahoo.co.jp
 www.yeri.be

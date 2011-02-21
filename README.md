@@ -16,6 +16,8 @@ It's currently running and checking from 3 locations; Belgium, The Netherlands, 
 
 Submit URLs, IPs or domains to <gfw@tuinslak.be>. I'll probably create some small submit page in the future.
 
+Alternatively, you can create a ticket (<https://github.com/Tuinslak/GFW-URL-checker/issues>) on Github.
+
 # Shells wanted 
 
 I'm looking for additional Unix/Linux shells all around the world (but preferably countries that apply censorship). All I need is wget, git and cron installed, 10ish mb quota, and a bit of your CPU time and networking. Contact me on the e-mail above. These can be ARM shells (such as Guruplug/Sheevaplug).
