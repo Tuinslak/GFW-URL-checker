@@ -104,6 +104,7 @@ www.engadget.com
 www.facebook.com
 www.fbi.gov
 www.fedoraproject.org
+www.feedburner.com
 www.flickr.com
 www.free.fr
 www.freetibet.org
@@ -150,6 +151,7 @@ www.itprofessional.be
 www.joindiaspora.com
 www.klout.com
 www.lemonde.fr
+www.libyafeb17.com
 www.lifehacker.com
 www.linkedin.com
 www.linux.com
