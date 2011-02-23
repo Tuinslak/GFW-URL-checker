@@ -245,6 +245,7 @@ www.userbase.be
 www.vandaag.be
 www.veoh.com
 www.videopress.com
+www.viki.com
 www.vimeo.com
 www.vlc.org
 www.walkernews.net
