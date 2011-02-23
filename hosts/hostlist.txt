@@ -2,6 +2,7 @@
 adium.im
 alivetorrents.com
 api.irail.be
+api.twitter.com
 bit.ly
 bittorrentfiles.org
 blog.irail.be
