@@ -1,4 +1,3 @@
-www.googleusercontent.com
 0x04.com
 adium.im
 alivetorrents.com
@@ -40,6 +39,7 @@ nl.wikipedia.org
 one.rootspirit.com
 online.wsj.com
 opensuse.org
+paper.li
 prefetch.net
 progit.org
 project.irail.be
@@ -133,6 +133,7 @@ www.google.de
 www.google.fr
 www.google.it
 www.google.nl
+www.googleusercontent.com
 www.gowalla.com
 www.gravatar.com
 www.greatfirewallofchina.org
