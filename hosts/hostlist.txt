@@ -15,6 +15,7 @@ crunchbanglinux.org
 de.wikipedia.org
 debian-multimedia.org
 debian.speedblue.org
+disqus.com
 en.wikipedia.org
 english.aljazeera.net
 extratorrent.com
