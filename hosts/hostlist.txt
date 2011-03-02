@@ -1,4 +1,3 @@
-www.boxun.com
 0x04.com
 adium.im
 alivetorrents.com
@@ -11,6 +10,7 @@ blog.tuinslak.org
 blog.twitter.com
 blog.zztopping.com
 bmiwiki.cchmc.org
+boxun.shuoyi.com
 clientsfromhell.net
 code.google.com
 crunchbanglinux.org
@@ -82,6 +82,7 @@ www.bing.com
 www.blogger.com
 www.blogspot.com
 www.boardofinnovation.com
+www.boxun.com
 www.brightkite.com
 www.businessmodelinnovatie.be
 www.canvas.be
