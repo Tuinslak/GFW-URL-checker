@@ -1,7 +1,3 @@
-www.amazon.com
-www.amazon.fr
-www.amazon.co.uk
-www.amazon.de
 0x04.com
 adium.im
 alivetorrents.com
@@ -75,6 +71,10 @@ wikileaks.0x04.com
 wooledge.org
 www.0x20.be
 www.aljazeera.net
+www.amazon.co.uk
+www.amazon.com
+www.amazon.de
+www.amazon.fr
 www.amnesty.org
 www.answers.com
 www.aol.com
