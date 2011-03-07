@@ -32,10 +32,10 @@ Knowledge is power.
 
 # Techniques used
 
-Chinese gov blocks sites using several ways,
+Chinese gov blocks sites using several methods,
 
    * IP and/or DNS blocking
-   * Incorrect DNS replies (solvable by using different DNS server, such as 85.12.6.171)
+   * Incorrect DNS replies (solvable by using different DNS server, such as <85.12.6.171>)
    * URL filtering (Wikipedia for example)
    * Packet filtering (plain HTTP only? FTP seems to work) > snif content on certain keywords (e.g. try downloading Alexa 1m list: http://yeri.be/j1 - reset at certain byte)
    * Connection RST (reset) > different host replies RST packet, making your PC believe you are unable to connect (most common)
