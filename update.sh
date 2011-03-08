@@ -4,12 +4,22 @@
 # get the country variable (see the .example file)
 source country.sh
 DATE=`date -u '+%H:%M:%S %d-%m-%Y'`
+ISRUNNING=yes
 
 # pull git
 git pull
 
 # test
 ./checkHosts.sh hosts/hostlist.txt testResults/$COUNTRY/results
+
+# check until wget is no longer running
+while [ $ISRUNNING != "no" ]
+do
+	if ! ps x | grep -v grep | grep wget > /dev/null
+	then
+		ISRUNNING=no
+	fi
+done
 
 # merge -- this will overwrite the old file
 cat testResults/$COUNTRY/results_nok.csv > testResults/$COUNTRY/results.csv
