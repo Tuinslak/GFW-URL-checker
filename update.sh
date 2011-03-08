@@ -15,6 +15,7 @@ git pull
 # check until wget is no longer running
 while [ $ISRUNNING != "no" ]
 do
+	# if there is no wget process anymore, continue 
 	if ! ps x | grep -v grep | grep wget > /dev/null
 	then
 		ISRUNNING=no
