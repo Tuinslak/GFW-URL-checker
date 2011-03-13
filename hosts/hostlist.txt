@@ -24,6 +24,7 @@ news.google.com
 nl.wikipedia.org
 one.rootspirit.com
 online.wsj.com
+picasaweb.google.com
 project.irail.be
 prowl.weks.net
 safebrowsing-cache.google.com
