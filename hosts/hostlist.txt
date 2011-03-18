@@ -536,6 +536,7 @@ www.iza.ne.jp
 www.izlesene.com
 www.jalopnik.com
 www.japannetbank.co.jp
+www.japantimes.co.jp
 www.jfdaily.com
 www.jinzhao99.com
 www.jma.go.jp
@@ -1008,6 +1009,7 @@ www.vsnl.net.in
 www.wahas.com
 www.walkernews.net
 www.wanktube.com
+www.washingtonpost.com
 www.watanabepro.co.jp
 www.watchmygf.net
 www.wearehairy.com
