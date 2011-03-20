@@ -9,10 +9,12 @@ boards.4chan.org
 boxun.shuoyi.com
 code.google.com
 de.wikipedia.org
+en.rsf.org
 en.wikipedia.org
 english.aljazeera.net
 fedora.unix.com
 four.rootspirit.com
+fr.rsf.org
 fr.wikipedia.org
 linux.unix.com
 listen.grooveshark.com
@@ -796,6 +798,7 @@ www.rootspirit.com
 www.rootspirit.info
 www.rosettacode.org
 www.rs-online.com
+www.rsf-chinese.org
 www.rubias19.com
 www.ruiidc.com
 www.rutube.ru
