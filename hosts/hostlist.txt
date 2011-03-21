@@ -12,11 +12,9 @@ de.wikipedia.org
 en.rsf.org
 en.wikipedia.org
 english.aljazeera.net
-fedora.unix.com
 four.rootspirit.com
 fr.rsf.org
 fr.wikipedia.org
-linux.unix.com
 listen.grooveshark.com
 lists.rootspirit.com
 mail.google.com
@@ -33,14 +31,12 @@ safebrowsing-cache.google.com
 search.twitter.com
 sites.google.com
 social.implu.com
-solaris.unix.com
 static.0x04.com
 store.apple.com
 sunsite.ualberta.ca
 tech.karbassi.com
 tipstricks.itmatrix.eu
 tw.yahoo.com
-ubuntu.unix.com
 uk.reuters.com
 vm1.rootspirit.com
 vpn.miiatech.com
@@ -982,6 +978,7 @@ www.uned.es
 www.uni.cc
 www.unicreditbanca.it
 www.unionli.com
+www.unix.com
 www.unixguide.net
 www.uoc.edu
 www.upenn.edu
@@ -1022,6 +1019,8 @@ www.wearehairy.com
 www.web-directories.ws
 www.webcams.com
 www.webgame188.com
+www.webhostingtalk.com
+www.webhostingtalk.nl
 www.webinknow.com
 www.weble.org
 www.webshots.com
