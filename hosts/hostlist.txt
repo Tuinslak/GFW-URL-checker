@@ -164,6 +164,7 @@ www.banquepopulaire.fr
 www.bbc.co.uk
 www.beanfun.com
 www.bebo.com
+www.belgiumpoker.net
 www.beslist.nl
 www.bet365.com
 www.betfair.com
@@ -225,6 +226,8 @@ www.carros.com.br
 www.carsales.com.au
 www.carwale.com
 www.casadellibro.com
+www.casino.com
+www.casinocity.com
 www.castorama.fr
 www.ccb.com
 www.ccb.com.cn
@@ -346,6 +349,7 @@ www.elog-ch.com
 www.empflix.com
 www.engadget.com
 www.epochtimes.com
+www.europeancasinoassociation.org
 www.eventful.com
 www.evidus.com
 www.exploader.net
@@ -421,6 +425,7 @@ www.gentoo.org
 www.geocities.co.jp
 www.geocities.jp
 www.getiton.com
+www.getminted.com
 www.getuploader.com
 www.gigporno.ru
 www.github.com
@@ -701,6 +706,8 @@ www.okaz.com.sa
 www.onani-daisuki.com
 www.onlae.es
 www.online.sh.cn
+www.onlinecasinoking.com
+www.onlinecasinoplaygames.com
 www.onlinecreditcenter6.com
 www.open.ac.uk
 www.opendemocracy.net
@@ -716,6 +723,7 @@ www.overture.com
 www.ow.ly
 www.p-world.co.jp
 www.p5w.net
+www.pacificpoker.com
 www.pacopacomama.com
 www.pagerage.com
 www.pagesperso-orange.fr
@@ -742,9 +750,15 @@ www.pichunter.com
 www.pimpandhost.com
 www.ping.fm
 www.pixnet.net
+www.planet23.com
 www.playboy.com
 www.plurk.com
 www.pocket-lint.com
+www.poker.com
+www.pokerclub.be
+www.pokerlistings.com
+www.pokernews.com
+www.pokerstars.com
 www.pontofrio.com.br
 www.poppen.de
 www.pornhub.com
@@ -967,6 +981,7 @@ www.twittergrader.com
 www.twitvid.com
 www.typepad.com
 www.u-tokyo.ac.jp
+www.ub.com
 www.uba.ar
 www.ubuntu.com
 www.ucm.es
