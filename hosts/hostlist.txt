@@ -143,7 +143,6 @@ www.asahi.com
 www.ask.com
 www.atpages.jp
 www.atwiki.jp
-www.autotrader.com
 www.avaaz.org
 www.avg.com
 www.avito.ru
@@ -537,6 +536,8 @@ www.indiatimes.com
 www.infojobs.com.br
 www.inhetnieuws.nl
 www.inps.it
+www.instagr.am
+www.instagram.com
 www.irail.be
 www.irail.nl
 www.irs.gov
