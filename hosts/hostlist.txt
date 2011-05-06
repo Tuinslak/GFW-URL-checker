@@ -65,7 +65,6 @@ www.17iw.com
 www.198game.net
 www.1hai.cn
 www.1pondo.tv
-www.2552.net
 www.27xz.com
 www.2a.com
 www.2chan.net
@@ -309,7 +308,6 @@ www.democracy.com
 www.designerterminal.com
 www.deviantart.com
 www.dh005.com
-www.dh661.com
 www.dhc.co.jp
 www.dhs.gov
 www.digg.com
@@ -344,6 +342,7 @@ www.dygod.net
 www.dyndns.com
 www.e-travel.com
 www.e2ma.net
+www.ea.com
 www.ebay.com
 www.ebookbrowse.com
 www.ed.ac.uk
@@ -993,7 +992,6 @@ www.twitvid.com
 www.tyneso.com
 www.typepad.com
 www.u-tokyo.ac.jp
-www.ub.com
 www.uba.ar
 www.ubuntu.com
 www.ucm.es
