@@ -1,5 +1,6 @@
 api.irail.be
 api.twitter.com
+belaws.irail.be
 blog.irail.be
 blog.tuinslak.org
 blog.twitter.com
@@ -7,6 +8,7 @@ blog.zztopping.com
 bmiwiki.cchmc.org
 boards.4chan.org
 boxun.shuoyi.com
+chrome.google.com
 code.google.com
 de.wikipedia.org
 en.rsf.org
@@ -17,8 +19,11 @@ fr.rsf.org
 fr.wikipedia.org
 listen.grooveshark.com
 lists.rootspirit.com
+liveboards.irail.be
 mail.google.com
 maps.google.com
+maps.irail.be
+market.android.com
 nerdnotes.org
 news.google.com
 nl.wikipedia.org
@@ -31,6 +36,7 @@ safebrowsing-cache.google.com
 search.twitter.com
 sites.google.com
 social.implu.com
+source.android.com
 static.0x04.com
 store.apple.com
 sunsite.ualberta.ca
@@ -117,6 +123,7 @@ www.ameblo.jp
 www.americantowns.com
 www.amiami.jp
 www.amnesty.org
+www.android.com
 www.animecrazy.net
 www.answerbox.net
 www.answers.com
@@ -849,6 +856,7 @@ www.sinaapp.com
 www.singaporepools.com.sg
 www.singtaonet.com
 www.sistrix.com
+www.skyhookwireless.com
 www.skype.com
 www.slashdot.org
 www.slideshare.com
@@ -940,6 +948,7 @@ www.togetter.com
 www.toluna.com
 www.topsy.com
 www.toranoana.jp
+www.torrentfreak.com
 www.torrentz.eu
 www.toshiba.co.jp
 www.tosp.co.jp
@@ -981,6 +990,7 @@ www.twittercounter.com
 www.twitterfeed.com
 www.twittergrader.com
 www.twitvid.com
+www.tyneso.com
 www.typepad.com
 www.u-tokyo.ac.jp
 www.ub.com
