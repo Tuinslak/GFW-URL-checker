@@ -1,3 +1,12 @@
+www.jabber.org
+www.quakenet.org
+www.efnet.org
+www.darkmyst.org
+www.dal.net
+www.freenode.org
+www.ircnet.org
+www.rizon.net
+irc.netsplit.de
 api.irail.be
 api.twitter.com
 belaws.irail.be
