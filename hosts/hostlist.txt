@@ -1,12 +1,3 @@
-www.jabber.org
-www.quakenet.org
-www.efnet.org
-www.darkmyst.org
-www.dal.net
-www.freenode.org
-www.ircnet.org
-www.rizon.net
-irc.netsplit.de
 api.irail.be
 api.twitter.com
 belaws.irail.be
@@ -26,6 +17,7 @@ english.aljazeera.net
 four.rootspirit.com
 fr.rsf.org
 fr.wikipedia.org
+irc.netsplit.de
 listen.grooveshark.com
 lists.rootspirit.com
 liveboards.irail.be
@@ -305,7 +297,9 @@ www.dagospia.com
 www.dailymail.co.uk
 www.dailymotion.com
 www.daisycon.com
+www.dal.net
 www.dancingbear.com
+www.darkmyst.org
 www.darkstormguild.com
 www.dba.dk
 www.debian-multimedia.org
@@ -357,6 +351,7 @@ www.ed.ac.uk
 www.edublogs.org
 www.een.be
 www.eff.org
+www.efnet.org
 www.egooad.com
 www.elmundodeportivo.es
 www.elog-ch.com
@@ -408,6 +403,7 @@ www.foxtab.com
 www.freakshare.com
 www.free.fr
 www.freelotto.com
+www.freenode.net
 www.freepornofreeporn.com
 www.freeridegames.com
 www.freeservers.com
@@ -549,6 +545,7 @@ www.instagr.am
 www.instagram.com
 www.irail.be
 www.irail.nl
+www.ircnet.org
 www.irs.gov
 www.isohunt.com
 www.itmedia.co.jp
@@ -556,6 +553,7 @@ www.itprofessional.be
 www.its-mo.com
 www.iza.ne.jp
 www.izlesene.com
+www.jabber.org
 www.jalopnik.com
 www.japannetbank.co.jp
 www.japantimes.co.jp
@@ -797,6 +795,7 @@ www.qq.com
 www.qq937.com
 www.qqnz.com
 www.qqtn.com
+www.quakenet.org
 www.quora.com
 www.qwerly.com
 www.r1fclick.com
@@ -820,6 +819,7 @@ www.rightmediaptc.com
 www.rikunabi.com
 www.rising.cn
 www.rising.com.cn
+www.rizon.net
 www.robotstxt.org
 www.rootspirit.com
 www.rootspirit.info
