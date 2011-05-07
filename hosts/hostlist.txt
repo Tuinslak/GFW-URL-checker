@@ -1,5 +1,15 @@
+www.jabber.org
+www.quakenet.org
+www.efnet.org
+www.darkmyst.org
+www.dal.net
+www.freenode.org
+www.ircnet.org
+www.rizon.net
+irc.netsplit.de
 api.irail.be
 api.twitter.com
+belaws.irail.be
 blog.irail.be
 blog.tuinslak.org
 blog.twitter.com
@@ -7,6 +17,7 @@ blog.zztopping.com
 bmiwiki.cchmc.org
 boards.4chan.org
 boxun.shuoyi.com
+chrome.google.com
 code.google.com
 de.wikipedia.org
 en.rsf.org
@@ -17,8 +28,11 @@ fr.rsf.org
 fr.wikipedia.org
 listen.grooveshark.com
 lists.rootspirit.com
+liveboards.irail.be
 mail.google.com
 maps.google.com
+maps.irail.be
+market.android.com
 nerdnotes.org
 news.google.com
 nl.wikipedia.org
@@ -31,6 +45,7 @@ safebrowsing-cache.google.com
 search.twitter.com
 sites.google.com
 social.implu.com
+source.android.com
 static.0x04.com
 store.apple.com
 sunsite.ualberta.ca
@@ -59,7 +74,6 @@ www.17iw.com
 www.198game.net
 www.1hai.cn
 www.1pondo.tv
-www.2552.net
 www.27xz.com
 www.2a.com
 www.2chan.net
@@ -117,6 +131,7 @@ www.ameblo.jp
 www.americantowns.com
 www.amiami.jp
 www.amnesty.org
+www.android.com
 www.animecrazy.net
 www.answerbox.net
 www.answers.com
@@ -137,7 +152,6 @@ www.asahi.com
 www.ask.com
 www.atpages.jp
 www.atwiki.jp
-www.autotrader.com
 www.avaaz.org
 www.avg.com
 www.avito.ru
@@ -302,7 +316,6 @@ www.democracy.com
 www.designerterminal.com
 www.deviantart.com
 www.dh005.com
-www.dh661.com
 www.dhc.co.jp
 www.dhs.gov
 www.digg.com
@@ -337,6 +350,7 @@ www.dygod.net
 www.dyndns.com
 www.e-travel.com
 www.e2ma.net
+www.ea.com
 www.ebay.com
 www.ebookbrowse.com
 www.ed.ac.uk
@@ -531,6 +545,8 @@ www.indiatimes.com
 www.infojobs.com.br
 www.inhetnieuws.nl
 www.inps.it
+www.instagr.am
+www.instagram.com
 www.irail.be
 www.irail.nl
 www.irs.gov
@@ -849,6 +865,7 @@ www.sinaapp.com
 www.singaporepools.com.sg
 www.singtaonet.com
 www.sistrix.com
+www.skyhookwireless.com
 www.skype.com
 www.slashdot.org
 www.slideshare.com
@@ -940,6 +957,7 @@ www.togetter.com
 www.toluna.com
 www.topsy.com
 www.toranoana.jp
+www.torrentfreak.com
 www.torrentz.eu
 www.toshiba.co.jp
 www.tosp.co.jp
@@ -981,9 +999,9 @@ www.twittercounter.com
 www.twitterfeed.com
 www.twittergrader.com
 www.twitvid.com
+www.tyneso.com
 www.typepad.com
 www.u-tokyo.ac.jp
-www.ub.com
 www.uba.ar
 www.ubuntu.com
 www.ucm.es
