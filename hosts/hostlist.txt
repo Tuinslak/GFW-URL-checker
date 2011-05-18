@@ -19,6 +19,7 @@ fr.rsf.org
 fr.wikipedia.org
 irc.netsplit.de
 listen.grooveshark.com
+lists.debian.org
 lists.rootspirit.com
 liveboards.irail.be
 mail.google.com
