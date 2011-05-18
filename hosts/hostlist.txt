@@ -1,4 +1,3 @@
-scribe.twitter.com
 api.irail.be
 api.twitter.com
 belaws.irail.be
@@ -18,6 +17,10 @@ english.aljazeera.net
 four.rootspirit.com
 fr.rsf.org
 fr.wikipedia.org
+i1.ytimg.com
+i2.ytimg.com
+i3.ytimg.com
+i4.ytimg.com
 irc.netsplit.de
 listen.grooveshark.com
 lists.debian.org
@@ -36,6 +39,7 @@ picasaweb.google.com
 project.irail.be
 prowl.weks.net
 safebrowsing-cache.google.com
+scribe.twitter.com
 search.twitter.com
 sites.google.com
 social.implu.com
