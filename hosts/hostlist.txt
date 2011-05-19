@@ -38,6 +38,7 @@ online.wsj.com
 picasaweb.google.com
 project.irail.be
 prowl.weks.net
+s.ytimg.com
 safebrowsing-cache.google.com
 scribe.twitter.com
 search.twitter.com
