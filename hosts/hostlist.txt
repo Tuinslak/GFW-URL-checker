@@ -1,4 +1,3 @@
-www.smf.is
 api.irail.be
 api.twitter.com
 belaws.irail.be
@@ -689,6 +688,7 @@ www.nastyvideotube.com
 www.navitime.co.jp
 www.navy.mil
 www.neopets.com
+www.nerdnearby.com
 www.netflix.com
 www.netlog.be
 www.netmile.co.jp
@@ -795,6 +795,7 @@ www.privet.ru
 www.productlaunchformula.com
 www.programmingforums.org
 www.ps3iso.com
+www.psdisasters.com
 www.publicidees.com
 www.pudelek.pl
 www.pussy.org
@@ -880,6 +881,7 @@ www.slashdot.org
 www.slideshare.com
 www.smbc-card.com
 www.smbc.co.jp
+www.smf.is
 www.smgbb.cn
 www.snipt.net
 www.sod.co.jp
