@@ -1,4 +1,3 @@
-www.coderwall.com
 api.irail.be
 api.twitter.com
 belaws.irail.be
@@ -282,6 +281,7 @@ www.cnsuning.com
 www.cnzz.cn
 www.coches.net
 www.cocolog-nifty.com
+www.coderwall.com
 www.colbertnation.com
 www.collegeconfidential.com
 www.collegehumor.com
@@ -568,6 +568,7 @@ www.japannetbank.co.jp
 www.japantimes.co.jp
 www.jfdaily.com
 www.jinzhao99.com
+www.jitbit.com
 www.jma.go.jp
 www.jobrapido.de
 www.johnnys-net.jp
