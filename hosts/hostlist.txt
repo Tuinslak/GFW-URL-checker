@@ -8,8 +8,10 @@ blog.zztopping.com
 bmiwiki.cchmc.org
 boards.4chan.org
 boxun.shuoyi.com
+calendar.google.com
 chrome.google.com
 code.google.com
+contacts.google.com
 de.wikipedia.org
 en.rsf.org
 en.wikipedia.org
@@ -22,6 +24,7 @@ i2.ytimg.com
 i3.ytimg.com
 i4.ytimg.com
 irc.netsplit.de
+latitude.google.com
 listen.grooveshark.com
 lists.debian.org
 lists.rootspirit.com
@@ -36,12 +39,16 @@ nl.wikipedia.org
 one.rootspirit.com
 online.wsj.com
 picasaweb.google.com
+plus.google.com
 project.irail.be
 prowl.weks.net
+rm.flatturtle.com
+s.flatturtle.com
 s.ytimg.com
 safebrowsing-cache.google.com
 scribe.twitter.com
 search.twitter.com
+sites.flatturtle.com
 sites.google.com
 social.implu.com
 source.android.com
@@ -271,6 +278,7 @@ www.classmates.com
 www.clientsfromhell.net
 www.clipfish.de
 www.cliphunter.com
+www.cloudflare.com
 www.clubedohardware.com.br
 www.cmbc.com.cn
 www.cmbchina.com
@@ -397,6 +405,7 @@ www.filmstarts.de
 www.flagfox.net
 www.flashgames.it
 www.flashwing.net
+www.flatturtle.com
 www.fleshbot.com
 www.flickr.com
 www.flipkart.com
@@ -949,6 +958,7 @@ www.tek-tips.com
 www.tempalias.com
 www.thedailyshow.com
 www.thenextweb.com
+www.theoatmeal.com
 www.theonion.com
 www.thepiratebay.org
 www.thesartorialist.blogspot.com
