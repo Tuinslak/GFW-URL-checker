@@ -1,4 +1,0 @@
-# Rename this file to country.sh
-# And modify the COUNTRY variable to suit your location
-# (don't forget to create a directory with the same name in testResults/ directory)
-COUNTRY=be

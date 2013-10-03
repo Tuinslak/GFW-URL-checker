@@ -1,13 +1,20 @@
 #!/bin/bash
 # Yeri Tiete
+# http://yeri.be
 
-# get the country variable (see the .example file)
-source country.sh
+#
+# This file should be executed.
+#
+
+# some vars.
 DATE=`date -u '+%H:%M:%S %d-%m-%Y'`
 ISRUNNING=yes
 
 # pull git
 git pull
+
+# get country
+COUNTRY=`whois \`curl icanhazip.com -s\` | grep country | awk '{ print $2; }' | tr '[:upper:]' '[:lower:]'`
 
 # test
 ./checkHosts.sh hosts/hostlist.txt testResults/$COUNTRY/results
@@ -15,7 +22,7 @@ git pull
 # check until wget is no longer running
 while [ $ISRUNNING != "no" ]
 do
-	# if there is no wget process anymore, continue 
+	# if there is no wget process anymore, continue
 	if ! ps x | grep -v grep | grep wget > /dev/null
 	then
 		ISRUNNING=no
@@ -39,4 +46,4 @@ git add .
 git commit -m "$COUNTRY check @ $DATE (UTC)"
 git push
 
-#
+# EOF
