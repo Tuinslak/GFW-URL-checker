@@ -29,6 +29,7 @@ maps.google.com
 market.android.com
 nerdnotes.org
 news.google.com
+news.ycombinator.com
 nl.wikipedia.org
 one.rootspirit.com
 online.wsj.com
@@ -593,6 +594,7 @@ www.madrid.org
 www.mai-net.net
 www.mail-archive.com
 www.mail.ru
+www.mailchimp.com
 www.marieclairechina.com
 www.mashable.com
 www.maybank2u.com.my
@@ -914,6 +916,7 @@ www.tiete.org
 www.tijd.be
 www.timsah.com
 www.tinychat.com
+www.titify.com
 www.tmi.me
 www.tnaflix.com
 www.tns-global.com

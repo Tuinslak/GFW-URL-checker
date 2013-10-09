@@ -17,6 +17,7 @@ git pull
 COUNTRY=`whois \`curl icanhazip.com -s\` | grep country | awk '{ print $2; }' | tr '[:upper:]' '[:lower:]'`
 
 # test
+mkdir -p testResults/$COUNTRY/
 ./checkHosts.sh hosts/hostlist.txt testResults/$COUNTRY/results
 
 # check until wget is no longer running
